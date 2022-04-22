@@ -1,0 +1,36 @@
+
+/*-------------------------------------------------------------------------------------------*/
+.container{
+    margin: 10px;
+}
+.col{
+    margin: 10px;
+    border-radius: 5px;
+}
+.my-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+}
+.my-text2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+    font-weight: bold;
+}
+.justify{
+    text-align: justify;
+}
+.my-img{
+    width: 100%;
+}
+.my-btn{
+    width: 100%;
+}
+.input-group .form-control{
+    font-size: 20px;
+    text-align: justify;
+    font-weight: bold;
+}
